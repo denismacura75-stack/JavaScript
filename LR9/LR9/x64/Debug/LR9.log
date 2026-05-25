@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Desktop\LR\LR9\LR9\Source.cpp(41,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Desktop\LR\LR9\LR9\Source.cpp(42,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  LR9.vcxproj -> D:\Desktop\LR\LR9\x64\Debug\LR9.exe

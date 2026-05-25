@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Desktop\LR\LR6\LR6\Source.cpp(74,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR6.vcxproj -> D:\Desktop\LR\LR6\x64\Debug\LR6.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\LR\\LR10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1DE771-2F23-4BAF-BDAD-5B83943E68EA}|LR10\\LR10.vcxproj|D:\\Desktop\\LR\\LR10\\LR10\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A1DE771-2F23-4BAF-BDAD-5B83943E68EA}|LR10\\LR10.vcxproj|solutionrelative:LR10\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Desktop\\LR\\LR10\\LR10\\Source.cpp",
+              "RelativeDocumentMoniker": "LR10\\Source.cpp",
+              "ToolTip": "D:\\Desktop\\LR\\LR10\\LR10\\Source.cpp",
+              "RelativeToolTip": "LR10\\Source.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-30T22:56:45.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
